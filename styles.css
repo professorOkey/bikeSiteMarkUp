@@ -317,7 +317,6 @@ body {
 
 .product--active .product__detail-img {
     display: block;
-    margin-top: 20px;
     margin: 20px 0px 0px;
     width: 125%;
 }
