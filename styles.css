@@ -275,6 +275,7 @@ body {
     padding-left: 70px;
     padding-right: 70px;
     overflow-y: auto;
+    overflow-x: hidden;
     padding-bottom: 0px;
 }
 
