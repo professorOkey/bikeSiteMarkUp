@@ -318,7 +318,7 @@ body {
 .product--active .product__detail-img {
     display: block;
     margin-top: 20px;
-    margin: 20px -70px 0;
+    margin: 20px 0px 0px;
     max-width: 125%;
 }
 
